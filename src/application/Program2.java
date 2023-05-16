@@ -45,6 +45,9 @@ public class Program2 {
 		departmentDao.deleteById(id);
 		System.out.println("Delete completed!");
 		
+		
+		System.out.println("\n==== Project Terminated =====");
+		
 		sc.close();
 	}
 
